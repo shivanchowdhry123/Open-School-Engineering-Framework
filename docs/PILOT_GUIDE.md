@@ -63,6 +63,18 @@ This guide outlines a low-friction, 6-week pilot program for school principals, 
 | **AI Assessment** | Unregulated / Ban on AI | Logic auditing of SLM-generated code |
 | **Final Term Project** | Static code printouts | Functional REST API / Deployed App |
 
+### 4.1 AI Integrity & Oral Code Defense Protocol
+To prevent students from bypassing problem-solving schemas via AI tools, the pilot framework adopts a two-tier integrity check based on educator feedback:
+
+1. **Upfront Pedagogy Dialogue (The "Why"):**  
+   Before any lab work begins, instructors explicitly demonstrate how AI reliance degrades fundamental reasoning skills (e.g., loops, flowcharts, data structures) and why early-stage AI bypass directly harms their board exam performance and software engineering capability.
+
+2. **Mandatory 2-Minute Oral Defense (Viva Voce):**  
+   Every assignment/PR submission requires a brief, in-person code defense where the teacher randomly selects 2 lines of the student's submission and asks:
+   - *"What does this line do, and what happens if we remove it?"*
+   - *"Why did you choose this logic instead of an alternative loop/conditional?"*
+   *If a student cannot explain their submitted logic, the assignment is flagged for a mandatory rewrite in an offline, supervised environment.*
+
 ---
 
 ## 5. Frequently Asked Questions for Educators
